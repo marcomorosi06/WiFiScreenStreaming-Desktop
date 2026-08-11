@@ -1,4 +1,16 @@
-# Project exclude paths
-/.gradle/
-/build/
-/build/classes/kotlin/main/
+.gradle/
+build/
+bin/
+.kotlin/
+
+.idea/
+*.iml
+*.iws
+*.ipr
+
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+crypto.txt
